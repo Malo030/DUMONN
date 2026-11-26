@@ -1,0 +1,14 @@
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.suo
+*.ipch
+*.obj
+*.pdb
+*.exe
+
+!**/SFML/**/*.lib
+!**/SFML/**/*.dll
