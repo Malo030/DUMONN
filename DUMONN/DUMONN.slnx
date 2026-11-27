@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="DUMONN.vcxproj" />
+  <Project Path="DUMONN.vcxproj" Id="9bbe5bde-311a-4001-ab32-7e48f8d973cb" />
 </Solution>
