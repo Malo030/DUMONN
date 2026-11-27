@@ -150,6 +150,8 @@
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="conteneur.cpp" />
+    <ClCompile Include="conteneur.hpp" />
     <ClCompile Include="machine.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
