@@ -152,11 +152,13 @@
   <ItemGroup>
     <ClCompile Include="conteneur.cpp" />
     <ClCompile Include="conteneur.hpp" />
+    <ClCompile Include="inventaire.cpp" />
     <ClCompile Include="machine.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="foreuse.hpp" />
+    <ClInclude Include="inventaire.hpp" />
     <ClInclude Include="machine.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
